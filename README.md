@@ -250,7 +250,7 @@ Auto Email Sending
 
 # 📸 Screenshots
 
-*Add your screenshots here.*
+
 
 ---
 
